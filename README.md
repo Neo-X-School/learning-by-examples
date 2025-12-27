@@ -1,4 +1,4 @@
-# learn-by-examples
+# Learning by Examples
 
 Learning by Examples - from Neo-X School.
 
